@@ -15,7 +15,7 @@ To get started with the Text Extraction and Translation Tool, follow these steps
 
 Clone the Repository: Clone this repository to your local machine using Git. shell
 
-git clone https://github.com/Aswinpv787/Text_capture_and_Translate.git
+git clone https://github.com/Udayshankar19/Text-Extraction-and-Translation-Tool
 
 Install Dependencies: Install the required dependencies for the tool. shell
 
